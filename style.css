@@ -70,6 +70,7 @@ main {
 .header {
     background-color: var(--Pale-cyan);
     padding-block: 5rem;
+    background-image: url(images/bg-hero-desktop.svg);
 }
 .logo {
     width: 20rem;
@@ -206,6 +207,7 @@ footer .logo {
 
     header {
         background-color: var(--Pale-cyan);
+        background-image: url(images/bg-hero-mobile.svg);
     }
     main {
         min-width: 300px;
