@@ -166,7 +166,7 @@ p {
     gap: 2rem;
 }
 footer {
-    padding-block: 12rem;
+    padding-block: 12rem 6rem;
     background-color: var(--Dark-cyan);
     color: white !important;
     font-size: 1.8rem;
