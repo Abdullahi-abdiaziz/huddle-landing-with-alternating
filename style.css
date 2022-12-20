@@ -50,7 +50,7 @@ main {
 }
 /*  */
 .container {
-    width: 90%;
+    width: 88%;
     margin: 0 auto;
 }
 .d-flex-space {
@@ -208,6 +208,7 @@ footer .logo {
     header {
         background-color: var(--Pale-cyan);
         background-image: url(images/bg-hero-mobile.svg);
+        background-position: top left;
     }
     main {
         min-width: 300px;
